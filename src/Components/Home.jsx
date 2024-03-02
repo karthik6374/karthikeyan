@@ -6,7 +6,9 @@ const Home = () => {
       <div className='welcome'>WELCOME TO THIS SITE!!!
       </div>
       <br />
-      Here we can login and register the user
+      <div className='bold'>We are glad to you are here</div>
+       <br/>
+       Here we can login and register the user
     </div>
   );
 }
